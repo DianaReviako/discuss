@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://discuss.flarum.org", 
+    "defaultCommandTimeout": 10000
+}
