@@ -1,4 +1,5 @@
 {
-    "baseUrl": "https://discuss.flarum.org", 
-    "defaultCommandTimeout": 10000
+  "baseUrl": "https://discuss.flarum.org",
+  "defaultCommandTimeout": 10000,
+  "projectId": "icet9c"
 }
